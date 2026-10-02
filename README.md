@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+
 ## Автор
 Yakub | GitHub: [@Valeravoin] (https://github.com/Valeravoin)
 
