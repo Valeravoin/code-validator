@@ -22,6 +22,7 @@ Yakub | GitHub: [@Valeravoin] (https://github.com/Valeravoin)
 git clone https://github.com/Valeravoin/code-validator.git
 cd code-validator
 python main.py
+
 ## Как протестировать
 
 Чтобы быстро проверить работу валидатора, запусти скрипт и вставь эту строку:
